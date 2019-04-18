@@ -6,3 +6,4 @@ input("Pressione enter para continuar!")
 print("Fase 1")
 r1=input("Qual a tradução da palavra 'DEMO'? :")
 OOOOOOPAAAAAAAAAAAAAA. AGORA SIM!
+leva a sério fresco kkkkkkkkk
