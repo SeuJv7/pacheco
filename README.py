@@ -165,4 +165,4 @@ else:
 
 print("=-" * 15)
 
-print("A pontuação do jogador: ",participante, "fez ",pontuacao,"pontos!")
+print("A pontuação do jogador: ",participante, "foi de  ",pontuacao,"pontos!")
